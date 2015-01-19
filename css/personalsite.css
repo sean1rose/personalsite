@@ -16,6 +16,14 @@ p {
     line-height: 1.75;
 }
 
+p.xxlarge {
+    font-size: 28px
+}
+
+p.xlarge {
+    font-size: 24px;
+}
+
 p.large {
     font-size: 16px;
 }
